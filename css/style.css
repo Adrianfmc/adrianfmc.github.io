@@ -121,7 +121,11 @@ p{
 
 #curriculum {
   background-color: #CD6155;
-  text-align:center
+  text-align:center;
+}
+
+#curriculum a{
+  color: white
 }
 
 footer {
